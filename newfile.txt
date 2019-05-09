@@ -1,3 +1,4 @@
  this is a command
 this is another entry for my project!
 this is another prined message for my file!
+this is another new file for my txt file muhahaha
